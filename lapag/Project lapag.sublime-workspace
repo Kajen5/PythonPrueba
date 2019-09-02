@@ -1,0 +1,1282 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ca",
+				"class\tAttr"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"can",
+				"container"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"borde",
+				"border-width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"si",
+				"font-size"
+			],
+			[
+				"preg",
+				"pregunta_laste\tfunction"
+			],
+			[
+				"re",
+				"request\tparam"
+			],
+			[
+				"context",
+				"context_processors"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"backc",
+				"background-color"
+			],
+			[
+				"for",
+				"for\tfor"
+			],
+			[
+				"en",
+				"Encuesta"
+			],
+			[
+				"load",
+				"load\tDjango template load template tag set"
+			],
+			[
+				"color",
+				"background-color"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"block",
+				"block\tblock"
+			],
+			[
+				"to",
+				"Todo"
+			],
+			[
+				"ext",
+				"extends\textends"
+			],
+			[
+				"Request",
+				"requestContext"
+			],
+			[
+				"mi",
+				"MIDDLEWARE"
+			],
+			[
+				"T",
+				"TodoAdmin"
+			],
+			[
+				"Todoarti",
+				"TodoArticuloAdmin"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "templates/lapag/base.html",
+			"settings":
+			{
+				"buffer_size": 3317,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lapag/views.py",
+			"settings":
+			{
+				"buffer_size": 655,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "templates/lapag/test.html",
+			"settings":
+			{
+				"buffer_size": 120,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "templates/lapag/index.html",
+			"settings":
+			{
+				"buffer_size": 969,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "encuesta/urls.py",
+			"settings":
+			{
+				"buffer_size": 403,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lapag/urls.py",
+			"settings":
+			{
+				"buffer_size": 967,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/css/base.css",
+			"settings":
+			{
+				"buffer_size": 1504,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Windows/inf/PERFLIB/0000/perfc.dat",
+			"settings":
+			{
+				"buffer_size": 78870,
+				"encoding": "Hexadecimal",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nAnaconda\n--------\n\n  \n                                                            |\n                _` |  __ \\    _` |   __|   _ \\   __ \\    _` |   _` |\n               (   |  |   |  (   |  (     (   |  |   |  (   |  (   |\n              \\__,_| _|  _| \\__,_| \\___| \\___/  _|  _| \\__,_| \\__,_|\n                                       The Sublime Text 3 Python IDE\n  \n  \n  Anaconda v2.1.15\n  ================\n  \n  Welcome to new anaconda v2.1.15, what do you can find in this minor release?\n  \n  ## Fixes\n      - Added support for MyPy `in-development` versions\n  \n  ## Improvements\n      - Added `ids` to menu entries to support Localication\n  \n  ## New Features\n      - Added support to display linting errors inline using phantoms (disable by default)\n\n  \n                                                            |\n                _` |  __ \\    _` |   __|   _ \\   __ \\    _` |   _` |\n               (   |  |   |  (   |  (     (   |  |   |  (   |  (   |\n              \\__,_| _|  _| \\__,_| \\___| \\___/  _|  _| \\__,_| \\__,_|\n                                       The Sublime Text 3 Python IDE\n  \n  \n  Anaconda v2.1.14\n  ================\n  \n  Welcome to new anaconda v2.1.14, what do you can find in this minor release?\n  \n  ## Improvements\n  \n      - Respect indentation level when doing auto pep8 formatting\n      - Added MyPy `fast_parser` option\n      - Added support for Python 3.6\n",
+			"settings":
+			{
+				"buffer_size": 1436,
+				"line_ending": "Windows",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "encuesta/templates/encuesta/results.html",
+			"settings":
+			{
+				"buffer_size": 546,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "encuesta/templates/encuesta/index.html",
+			"settings":
+			{
+				"buffer_size": 635,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "encuesta/templates/encuesta/detail.html",
+			"settings":
+			{
+				"buffer_size": 738,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Searching 0 files for \"todo\"\n\n0 matches\n\nSearching 29 files for \"todo\"\n\nC:\\Users\\César\\Documents\\PYTHON\\lapag\\lapag\\views.py:\n    7  \n    8  def Index2View(request):\n    9:     todo = Pregunta.objects.all()\n   10      return render_to_response('lapag/index.html',\n   11                                RequestContext(request, locals()))\n\nC:\\Users\\César\\Documents\\PYTHON\\lapag\\templates\\lapag\\base.html:\n   35  \t\t\t\t\t\t<li><a href=\"{% url \"encuesta:index\" %}\" >Encuesta</a>\n   36  \t\t\t\t\t\t\t<ul>\n   37: \t\t\t\t\t\t\t{% for dato in todo %}\n   38  \t\t\t\t\t\t\t\t<li><a href=\"encuesta/{{dato.id}} \">{{dato}} </a></li>\n   39  \t\t\t\t\t\t\t{% endfor %}\n\nC:\\Users\\César\\Documents\\PYTHON\\lapag\\templates\\lapag\\index.html:\n    7  \t\t</div>\n    8  \t<div class=\"row\">\n    9: \t\t{% for dato in todo %}\n   10  \t\t<ul>\n   11  \t\t\t<li>\n\n3 matches across 3 files\n\n\nSearching 29 files for \"latest_pregunta_list\"\n\nC:\\Users\\César\\Documents\\PYTHON\\lapag\\encuesta\\templates\\encuesta\\index.html:\n    5  {% load static %}\n    6  <link rel=\"stylesheet\" type=\"text/css\" href=\"{% static \"encuesta/style.css\" %}\">\n    7: \t{% if latest_pregunta_list %}\n    8  \t\t<ul>\n    9: \t\t{% for pregunta in latest_pregunta_list %}\n   10  \t\t\t<li><a href=\"{% url 'encuesta:detail' pregunta.id %}\">{{pregunta.pregunta_text}}</a></li>\n   11  \t\t{% endfor %}\n\nC:\\Users\\César\\Documents\\PYTHON\\lapag\\encuesta\\tests.py:\n   35          self.assertEqual(response.status_code, 200)\n   36          self.assertContains(response, \"No hay encuestas validas.\")\n   37:         self.assertQuerysetEqual(response.context['latest_pregunta_list'], [])\n   38  \n   39      def text_index_view_with_a_past_pregunta(self):\n   40          create_pregunta(pregunta_text=\"Pregunta pasada.\", days=-30)\n   41          response = self.ciente.get(reverse('encuesta:index'))\n   42:         self.assertQuerysetEqual(response.context['latest_pregunta_list'], [\n   43                                   '<Pregunta: Pregunta pasada.>'])\n   44  \n   ..\n   47          response = self.client.get(reverse('encuesta:index'))\n   48          self.assertContains(response, \"No hay encuestas validas.\")\n   49:         self.assertQuerysetEqual(response.context['latest_pregunta_list'], [])\n   50  \n   51      def test_index_view_with_future_pregunta_and_pasado_pregunta(self):\n   ..\n   53          create_pregunta(pregunta_text=\"pregunta futura.\", days=30)\n   54          response = self.client.get(reverse('encuesta:index'))\n   55:         self.assertQuerysetEqual(response.context['latest_pregunta_list'], [\n   56                                   '<Pregunta: Pregunta pasada.>'])\n   57  \n   ..\n   60          create_pregunta(pregunta_text=\"Pregunta pasada 2.\", days=-5)\n   61          response = self.client.get(reverse('encuesta:index'))\n   62:         self.assertQuerysetEqual(response.context['latest_pregunta_list'], [\n   63                                  '<Pregunta: Pregunta pasada 2.>',\n   64                                   '<Pregunta: Pregunta pasada 1.>'\n\nC:\\Users\\César\\Documents\\PYTHON\\lapag\\encuesta\\views.py:\n   11  class IndexView(generic.ListView):\n   12      template_name = 'encuesta/index.html'\n   13:     context_object_name = 'latest_pregunta_list'\n   14  \n   15      def get_queryset(self):\n\nC:\\Users\\César\\Documents\\PYTHON\\lapag\\lapag\\views.py:\n    7  \n    8  def Index2View(request):\n    9:     context_object_name = 'latest_pregunta_list'\n   10      return render_to_response('lapag/index.html',\n   11                                RequestContext(request, locals()))\n\nC:\\Users\\César\\Documents\\PYTHON\\lapag\\templates\\lapag\\base.html:\n   38  \t\t\t\t\t\t\t\t<li><a href=\"encuesta/{{dato.id}} \">{{dato}} </a></li>\n   39  \t\t\t\t\t\t\t\t{% endfor %}\n   40: \t\t\t\t\t\t\t\t{% for pregunta in latest_pregunta_list %}\n   41  \t\t\t\t\t\t\t\t<li><a href=\"{% url 'encuesta:detail' pregunta.id %}\">{{pregunta.pregunta_text}}</a></li>\n   42  \t\t\t\t\t\t\t\t{% endfor %}\n\n10 matches across 5 files\n",
+			"settings":
+			{
+				"buffer_size": 3865,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "encuesta/views.py",
+			"settings":
+			{
+				"buffer_size": 1348,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "encuesta/static/encuesta/style.css",
+			"settings":
+			{
+				"buffer_size": 110,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "templates/admin/base.html",
+			"settings":
+			{
+				"buffer_size": 3295,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lapag/settings.py",
+			"settings":
+			{
+				"buffer_size": 3286,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lapag/__init__.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "encuesta/context_processors.py",
+			"settings":
+			{
+				"buffer_size": 540,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "package ",
+		"selected_items":
+		[
+			[
+				"package ",
+				"Package Control: Disable Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: boot",
+				"Snippet: Bootstrap fluid layout"
+			],
+			[
+				"Snippet: ",
+				"Snippet: .snippet"
+			],
+			[
+				"Snippet: star",
+				"Snippet: starter"
+			],
+			[
+				"Snippet: html",
+				"Snippet: html"
+			],
+			[
+				"Snippet: start",
+				"Snippet: starter"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: st",
+				"Snippet: starter"
+			],
+			[
+				"boot",
+				"Snippet: jumbotron"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 141.0,
+		"history":
+		[
+			"manage.py help",
+			"import Djaneiro",
+			"import djaneiro",
+			"import Django",
+			"import django",
+			"exit()",
+			"^Z",
+			"^z",
+			"manage.help runserver",
+			"manage help",
+			"manage.py runserver",
+			"quit()",
+			"d",
+			"help",
+			"$ manage.py runserver",
+			"git clone https://github.com/mdegoo/sublime-bootstrap4.git",
+			"exit",
+			"manage runserver",
+			"git clone https://github.com/mdegoo/sublime-bootstrap4.git",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/César/Documents/PYTHON/lapag",
+		"/C/Users/César/Documents/PYTHON/lapag/encuesta",
+		"/C/Users/César/Documents/PYTHON/lapag/encuesta/static",
+		"/C/Users/César/Documents/PYTHON/lapag/encuesta/static/encuesta",
+		"/C/Users/César/Documents/PYTHON/lapag/encuesta/templates",
+		"/C/Users/César/Documents/PYTHON/lapag/encuesta/templates/encuesta",
+		"/C/Users/César/Documents/PYTHON/lapag/lapag",
+		"/C/Users/César/Documents/PYTHON/lapag/lapag/static",
+		"/C/Users/César/Documents/PYTHON/lapag/lapag/static/lapag",
+		"/C/Users/César/Documents/PYTHON/lapag/static",
+		"/C/Users/César/Documents/PYTHON/lapag/static/css",
+		"/C/Users/César/Documents/PYTHON/lapag/static/lapag",
+		"/C/Users/César/Documents/PYTHON/lapag/templates",
+		"/C/Users/César/Documents/PYTHON/lapag/templates/lapag"
+	],
+	"file_history":
+	[
+		"/C/Users/César/Downloads/login",
+		"/C/Users/César/Downloads/descarga",
+		"/C/Users/César/Documents/PYTHON/lapag/encuesta/context_processors",
+		"/C/Users/César/Documents/PYTHON/lapag/lapag/static/lapag/base.css",
+		"/C/Users/César/Documents/PYTHON/lapag/lapag/settings.py",
+		"/C/Users/César/Documents/PYTHON/lapag/static/lapag/base.css",
+		"/C/Users/César/Documents/PYTHON/lapag/manage.sublime-project",
+		"/C/Users/César/Documents/PYTHON/Prototipo/templates/todo",
+		"/C/Users/César/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Default (Windows).sublime-keymap",
+		"/C/Users/César/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/C/Users/César/AppData/Roaming/Sublime Text 3/Packages/User/HTML (Django).sublime-settings",
+		"/C/Users/César/AppData/Roaming/Sublime Text 3/Packages/Djaneiro/Settings/HTML (Django).sublime-settings",
+		"/C/Users/César/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/César/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/César/Documents/PYTHON/Prototipo/manage.sublime-project",
+		"/C/Users/César/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/C/Users/César/Documents/PYTHON/Prototipo/templates/base.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"C:\\Users\\César\\Documents\\PYTHON\\lapag",
+			"lapag"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"latest_pregunta_list",
+			"todo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "templates/lapag/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1605,
+								1605
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1104.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lapag/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 655,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								405,
+								405
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "templates/lapag/test.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84,
+								84
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "templates/lapag/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 969,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								494,
+								499
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "encuesta/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 403,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								349,
+								349
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "lapag/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 967,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								735,
+								735
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 138.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "static/css/base.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1504,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								210,
+								215
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/CSS (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Windows/inf/PERFLIB/0000/perfc.dat",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 78870,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								479,
+								479
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1436,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1436,
+								1436
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "encuesta/templates/encuesta/results.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 546,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								215,
+								215
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "encuesta/templates/encuesta/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 635,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								212
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 69.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "encuesta/templates/encuesta/detail.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 738,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								216,
+								216
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3865,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										177,
+										181
+									],
+									[
+										518,
+										522
+									],
+									[
+										756,
+										760
+									],
+									[
+										1073,
+										1093
+									],
+									[
+										1139,
+										1159
+									],
+									[
+										1534,
+										1554
+									],
+									[
+										1831,
+										1851
+									],
+									[
+										2145,
+										2165
+									],
+									[
+										2467,
+										2487
+									],
+									[
+										2783,
+										2803
+									],
+									[
+										3138,
+										3158
+									],
+									[
+										3332,
+										3352
+									],
+									[
+										3681,
+										3701
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								821,
+								821
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 3,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1161.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "encuesta/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1348,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								552,
+								552
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 414.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "encuesta/static/encuesta/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								110,
+								110
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/CSS (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "templates/admin/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								542,
+								542
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 330.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "lapag/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								318,
+								318
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 69.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "lapag/__init__.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "encuesta/context_processors.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 540,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								114,
+								114
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Project lapag.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 35.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

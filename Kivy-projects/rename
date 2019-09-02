@@ -1,0 +1,31 @@
+import os
+import re
+
+
+def rename(titulo):
+    f = open("Tales_of_demons_and_godsenlaces.txt", "r")
+    directorio = os.path.join(titulo)
+    if not os.path.isdir(directorio):
+        os.mkdir(directorio)
+    os.chdir(directorio)
+    lista = list()
+    text = f.read()
+    pag_padres = re.findall(r"(\d+)\n(.*?)\n\n", text, re.DOTALL)
+    for pag_padre in pag_padres:
+        (numero, link_padres) = pag_padre
+        print(numero)
+        tuples = re.findall(r'(.*?)\t pag (\d+)', link_padres)
+        print(tuples)
+        lista.append([numero, tuples])
+    for capitulo in lista:
+        (numero, imagenes) = capitulo
+        for imagen in imagenes:
+            (link_imagen, pag) = imagen
+            oldname = re.search(r'.+/(.*?)\.jpg', link_imagen)
+            nombre = titulo + "_" + str(numero) + "-5_" + str(pag) + ".jpg"
+            print(oldname.group(1) + "\t" + nombre)
+            # os.rename(oldname + ".jpg", nombre + ".jpg")
+
+
+if __name__ == '__main__':
+    rename("tales_of_demons_and_gods")
